@@ -1,0 +1,11 @@
+html{
+    display: block;
+}
+
+li{
+    list-style-type: none;
+}
+
+body{
+    background-color: burlywood
+}
